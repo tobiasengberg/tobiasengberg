@@ -1,4 +1,4 @@
-![Alt text](https://github.com/Exilic/Exilic/blob/main/banner.png)
+![Alt text](https://github.com/Exilic/Exilic/blob/main/model.png)
 
 <!--
 **Exilic/Exilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
